@@ -1,0 +1,1 @@
+ /Users/macbookpro/Desktop/e_schopss/.dart_tool/flutter_build/e98b954c53f04fa49b4a22acbfc93997/native_assets.yaml: 
